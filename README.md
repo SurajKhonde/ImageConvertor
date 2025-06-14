@@ -43,4 +43,6 @@ When asked, enter the full absolute path to the folder that contains your .jpg o
 Original folder: ~/Pictures/gallery
 
 Converted images: ~/Pictures/gallery-webp
+## please Use this link to download .zip
+https://drive.google.com/file/d/1LKtaVPK8feNFMxFg9gyC0a-QlEN1q3K2/view?usp=drive_link
 
